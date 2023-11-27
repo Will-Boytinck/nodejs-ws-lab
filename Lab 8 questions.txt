@@ -1,0 +1,8 @@
+1. I see a rabbit. The rabbit moves on both screens regardless of which tab you drag it from
+2. JS: interpreted, dynamically typed, less secure | TS: compiled, statically dyped, more secure
+3. Like any framework, they provide useful built in functions and increase the development speed, aswell as providing
+module bundling, and development servers to make creating software easier. ParselJS has features such as: 
+Code splitting (bundling), Support for multiple file types, and a build in development server.
+4. Different values: 0 (connecting, becoming opened), 1 (open, communication is possible), 
+2 (closing, becoming closed), 3 (closed, no connection/communication)
+5. https://github.com/Will-Boytinck/nodejs-ws-lab
